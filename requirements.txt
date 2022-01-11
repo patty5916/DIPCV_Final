@@ -1,0 +1,5 @@
+numpy == 1.19.5
+matplotlib == 3.4.3
+opencv-python == 4.0.1
+pyqt == 5.9.2
+pillow == 8.4.0
